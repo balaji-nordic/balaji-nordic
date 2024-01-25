@@ -28,5 +28,5 @@ Hello there! 👋 I'm Balaji, an embedded software developer based in Oslo, Norw
 
 ## Fun Facts
 
-- :ski: Love the Nordic winters.
+- :ski: Indian who loves the Nordic winters.
 - :earth_africa: Travelled over 60 countries
