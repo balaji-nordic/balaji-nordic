@@ -16,7 +16,7 @@ Hello there! 👋 I'm Balaji, an embedded software developer based in Oslo, Norw
 
 ## Projects
 
-1. [NRF Connect SDK](https://github.com/balaji-nordic/sdk-nrf): My experiments with static code analysis on a fork Nordic Connect SDK
+1. [NRF Connect SDK](https://github.com/balaji-nordic/sdk-nrf): My experiments with static code analysis on a fork of Nordic Connect SDK
 2. [Wifi Power Measurement](https://github.com/balaji-nordic/wifi-power-meas-test): Automated power measurements using github actions for wifi samples using Nordic's Power Profiler Kit 
 3. [Experiements with Unit Test frameworks for C](https://github.com/balaji-nordic/unit-test-experiments): A repo with simple examples of how use CMock, FFF, and CMocka to write write mocks while developing unit tests. 
 
