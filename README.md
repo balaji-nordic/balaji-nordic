@@ -6,7 +6,6 @@ Hello there! 👋 I'm Balaji, an embedded software developer based in Oslo, Norw
 
 ## About Me
 
-- 📧 Email: balaji.srinivasan@nordicsemi.no
 - 📱 LinkedIn: [balaji-srini](https://www.linkedin.com/in/balaji-srini/)
 
 ## Skills
